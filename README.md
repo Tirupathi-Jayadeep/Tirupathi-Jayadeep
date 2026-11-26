@@ -1,16 +1,26 @@
 # Hey, I'm Jayadeep 👋
 
-### Backend developer building my way up.
+### Python Backend Developer | AIML Undergraduate
 
-I enjoy turning problems into logic, working with data, and understanding what happens behind the scenes of an application.
+I enjoy working with Python, exploring databases, and figuring out how applications work behind the scenes.
+
+Currently focused on backend development, building my technical foundation, and getting hands-on with projects.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-Learning-092E20?style=flat-square&logo=django&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tirupathi-jayadeep-266b51283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tirupathi-Jayadeep">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tirupathijayadeep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+### 🧰 Current Skills
 
 <table>
 <tr>
@@ -18,18 +28,24 @@ I enjoy turning problems into logic, working with data, and understanding what h
 
 ### 🐍 Python
 
-**My main language**
+**Programming**
 
-Building programming fundamentals, practicing OOP, and improving problem-solving through code.
+- Core Python
+- Object-Oriented Programming
+- Functions and data structures
+- Problem-solving practice
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ SQL
 
-**Working with data**
+**Database querying**
 
-Exploring relational databases, joins, subqueries, CTEs, and window functions.
+- MySQL
+- Joins and subqueries
+- CTEs
+- Window functions
 
 </td>
 </tr>
@@ -38,9 +54,12 @@ Exploring relational databases, joins, subqueries, CTEs, and window functions.
 
 ### ⚙️ Django
 
-**Backend learning**
+**Backend development**
 
-Learning how to build web applications, organize business logic, and develop REST APIs.
+- Django fundamentals
+- Models and ORM
+- Application structure
+- CRUD workflows
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +68,73 @@ Learning how to build web applications, organize business logic, and develop RES
 
 **Problem solving**
 
-Practicing patterns, understanding time and space complexity, and learning to approach problems step by step.
+- Arrays and strings
+- Two pointers
+- Sliding window
+- Binary search and sorting
+
+</td>
+</tr>
+</table>
+
+### 📚 Learning Goals
+
+| Area | What I'm working toward |
+|---|---|
+| Django | Building complete backend applications |
+| Django REST Framework | Designing and developing REST APIs |
+| Databases | Better schema design and query optimization |
+| Software Development | Testing, debugging, and writing maintainable code |
+| DSA | Improving problem-solving and complexity analysis |
+
+---
+
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Hostel Management System
+
+A web application focused on organizing hostel operations and student-related workflows.
+
+**Project focus**
+- Student and room management
+- Hostel administration
+- Django application workflows
+
+[View Repository →](https://github.com/Tirupathi-Jayadeep/hostel-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ BenchZero
+
+A comparative benchmarking framework for workforce allocation across different optimization approaches.
+
+**Project focus**
+- Workforce allocation
+- Exact, heuristic, and metaheuristic solvers
+- Multi-objective benchmarking
+
+[View Repository →](https://github.com/Tirupathi-Jayadeep/benchzero)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎯 GovMatch
+
+A project focused on government job discovery and eligibility matching.
+
+**Project focus**
+- Job discovery
+- Eligibility matching
+- Helping users find relevant opportunities
+
+[View Repository →](https://github.com/Tirupathi-Jayadeep/govmatch)
 
 </td>
 </tr>
@@ -57,41 +142,15 @@ Practicing patterns, understanding time and space complexity, and learning to ap
 
 ---
 
-### 🚀 Currently building
+### ♟️ A few things about me
 
-| Project | Focus |
-|---|---|
-| [Hostel Management System](https://github.com/Tirupathi-Jayadeep/hostel-management-system) | Hostel operations, student management, room allocation, and Django application workflows |
-| [BenchZero](https://github.com/Tirupathi-Jayadeep/benchzero) | Workforce allocation and benchmarking across optimization approaches |
-| [GovMatch](https://github.com/Tirupathi-Jayadeep/govmatch) | Government job discovery and eligibility matching |
-
-*Exploring real-world problems through backend development, data management, and problem-solving.*
-
----
-
-### 🧠 My developer mindset
-
-```text
-Understand the problem
-        ↓
-Break it into smaller pieces
-        ↓
-Write the logic
-        ↓
-Test. Debug. Improve.
-```
-
-I believe good development starts with understanding—not just making the code work.
-
----
-
+- I enjoy playing chess.
+- I listen to music when I'm taking a break.
+- I like exploring how things work, especially when it comes to programming and databases.
+- I'm interested in Python backend development and building practical applications.
 
 ---
 
 <p align="center">
-  <b>Learning by building. Improving by understanding.</b>
-  <br><br>
-  <a href="https://www.linkedin.com/in/tirupathi-jayadeep-266b51283/">LinkedIn</a> ·
-  <a href="https://github.com/Tirupathi-Jayadeep">GitHub</a> ·
-  <a href="mailto:tirupathijayadeep@gmail.com">Email</a>
+  <b>Python · SQL · Django · Backend Development</b>
 </p>
