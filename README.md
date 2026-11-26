@@ -61,9 +61,9 @@ Practicing patterns, understanding time and space complexity, and learning to ap
 
 | Project | Focus |
 |---|---|
-| [Hostel Management System](https://github.com/YOUR_USERNAME/hostel-management-system) | Hostel operations, student management, room allocation, and Django application workflows |
-| [BenchZero](https://github.com/YOUR_USERNAME/benchzero) | Workforce allocation and benchmarking across optimization approaches |
-| [GovMatch](https://github.com/YOUR_USERNAME/govmatch) | Government job discovery and eligibility matching |
+| [Hostel Management System](https://github.com/Tirupathi-Jayadeep/hostel-management-system) | Hostel operations, student management, room allocation, and Django application workflows |
+| [BenchZero](https://github.com/Tirupathi-Jayadeep/benchzero) | Workforce allocation and benchmarking across optimization approaches |
+| [GovMatch](https://github.com/Tirupathi-Jayadeep/govmatch) | Government job discovery and eligibility matching |
 
 *Exploring real-world problems through backend development, data management, and problem-solving.*
 
@@ -91,7 +91,7 @@ I believe good development starts with understanding—not just making the code 
 <p align="center">
   <b>Learning by building. Improving by understanding.</b>
   <br><br>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/tirupathi-jayadeep-266b51283/">LinkedIn</a> ·
+  <a href="https://github.com/Tirupathi-Jayadeep">GitHub</a> ·
   <a href="mailto:tirupathijayadeep@gmail.com">Email</a>
 </p>
