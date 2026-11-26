@@ -61,11 +61,11 @@ Practicing patterns, understanding time and space complexity, and learning to ap
 
 | Project | Focus |
 |---|---|
-| `python-practice` | Python fundamentals and coding exercises |
-| `sql-lab` | SQL query practice and database concepts |
-| `django-projects` | Backend applications and API development |
+| [Hostel Management System](https://github.com/YOUR_USERNAME/hostel-management-system) | Hostel operations, student management, room allocation, and Django application workflows |
+| [BenchZero](https://github.com/YOUR_USERNAME/benchzero) | Workforce allocation and benchmarking across optimization approaches |
+| [GovMatch](https://github.com/YOUR_USERNAME/govmatch) | Government job discovery and eligibility matching |
 
-*These repositories are growing as I learn and build.*
+*Exploring real-world problems through backend development, data management, and problem-solving.*
 
 ---
 
